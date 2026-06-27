@@ -1,0 +1,6 @@
+{
+  "name": "Skup aut Kraków - Kasacja i Części",
+  "description": "Profesjonalna strona skupu samochodów do kasacji i na części w Krakowie i okolicach. Najlepsze ceny do 2 zł za kilogram, gotówka na miejscu i minimum formalności.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
